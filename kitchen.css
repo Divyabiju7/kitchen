@@ -265,9 +265,10 @@ margin-top: 20px;
 }
 .inbox13{
     /* background-color: aquamarine; */
-    height: 400px;
+    padding-bottom:15px;
     
-    padding-top: 80px;
+    
+    padding-top: 10px;
     padding-left: 20px;
 }
 .o{
