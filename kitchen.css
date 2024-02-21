@@ -1,4 +1,6 @@
-
+.top{
+    overflow: hidden;
+}
 
 
 .navbar-brand{
@@ -6,7 +8,7 @@
     margin-left: 10px;
 }
 .nav-links{
-    
+
     text-decoration: none;
     background-color: aqua;
     padding: 5px 30px;
@@ -14,7 +16,7 @@
     border-radius: 25px;
     display: inline-block;
     color: white;
-    
+
 }
 a.nav-links1{
     background-color:light;
@@ -36,9 +38,10 @@ background-color: rgba(135, 207, 235, 0.309);
     /* padding-left: 170px; */
     /* padding-left: 30px; */
     padding-bottom: 25px;
-text-align:center;
-    
-    
+    text-align: center;
+
+
+
 }
 .z{
     color: white;
@@ -46,7 +49,7 @@ text-align:center;
     background-color: skyblue;
     border-radius: 60px;
     padding: 5px 35px;
-   
+
     display: inline-block;
     letter-spacing: 0px;
 }
@@ -54,29 +57,29 @@ text-align:center;
 .a{
 
     font-size: 30px;
- 
+
     display: inline-block;
     padding-top: 40px;
-    
+
 }
 
 .d{
     font-size: 30px;
- 
+
     display: inline-block;
 
 }
 
 .b{
     font-size: 15px;
-    
+
     display: inline-block;
-    
+
 }
 .e{
     padding-left: 20px;
 }
-    
+
 
 
 
@@ -86,7 +89,7 @@ text-align:center;
 }
 
 .sec2{
-
+    
 }
 .inbox3{
     /* height:250px ; */
@@ -98,18 +101,18 @@ text-align:center;
 
 .f{
     font-size: 10px;
-    
+
 }
 .icon1{
     font-size: 25px;
     color: skyblue;
     background-color: red;
-    
+
     border-radius: 50%;
     padding: 10px;
-    
-    
-    
+
+
+
 }
 .inbox4{
     height:250px ;
@@ -129,9 +132,9 @@ text-align:center;
     background-color: skyblue;
     border-radius: 50%;
     padding: 10px;
-    
-    
-    
+
+
+
 }
 .inbox5{
     height:250px ;
@@ -152,9 +155,9 @@ text-align:center;
     background-color: skyblue;
     border-radius: 50%;
     padding: 10px;
-    
-    
-    
+
+
+
 }
 .inbox6{
     height:250px ;
@@ -173,12 +176,12 @@ margin-top: 20px;
     text-align: center;
     padding-top: 50px;
 
-    
+
 }
 .g{
     color: white;
     font-size: 25px;
-    
+
 }
 .h{
     color: white;
@@ -206,7 +209,7 @@ margin-top: 20px;
 
 .sec5{
     background-color:navy;
-   
+
 }
 .inbox9{
     /* background-color: brown; */
@@ -261,19 +264,21 @@ margin-top: 20px;
     /* background-color: aquamarine; */
     height: 350px;
     margin-top: 20px;
-    
+
 }
 .inbox13{
-    /* background-color: aquamarine; */
-    padding-bottom:15px;
-    
-    
+     /* background-color: aquamarine; */
+    /* height: 400px; */
+    padding-bottom: 15px;
+
+
     padding-top: 10px;
     padding-left: 20px;
 }
 .o{
     font-size: 25px;
-    
+
+
 }
 
 .p{
@@ -328,20 +333,20 @@ margin-top: 20px;
     padding: 10px;
     display: inline-block;
     margin-top: 18px;
-    
-    
-    
+
+
+
 }
 .inbox16{
     height: 250px;
     /* background-color:red;  */
     text-align: center;
     /* padding-top: 10px; */
-    
+
 }
 
 .icon4{
-    
+
     font-size: 20px;
     color:black;
     background-color:rgba(255, 228, 196, 0.175);
@@ -349,8 +354,8 @@ margin-top: 20px;
     padding: 10px;
     display: inline-block;
     margin-top: 18px;
-    
-    
+
+
 }
 
 .sec11{
@@ -378,7 +383,7 @@ background-color:paleturquoise;
     /* background-color: aqua; */
     height: 100px;
     padding-top: 10px;
-    
+
 }
 
 
@@ -396,7 +401,7 @@ background-color:paleturquoise;
     /* height: 50px; */
     text-align: center;
     padding-top: 10px;
-  
+
 }
 .y{
     color: white;
